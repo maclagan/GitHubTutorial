@@ -1,5 +1,7 @@
-#Read Megit 
+# README
 andrewfayed
+Person 2 - Add your name here
+
 
 
 This README would normally document whatever steps are necessary to get the
