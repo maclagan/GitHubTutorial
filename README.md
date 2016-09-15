@@ -1,5 +1,12 @@
 # README
+<<<<<<< HEAD
 Kyle MacLagan
+=======
+andrewfayed
+Person 2 - Add your name here
+
+
+>>>>>>> 281ac6fc6e5b632f5a378bf93a3d461553bd423f
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
